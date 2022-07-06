@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Description :
-# @File : utils.py
-# @Time : 2022/7/6 15:39
-# @Author : HarrisonWu42
-# @Email: harrisonwu.com@gmail.com
-# @Software: PyCharm
-
-
 import pandas as pd
 import numpy as np
 import random
